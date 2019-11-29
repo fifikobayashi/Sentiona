@@ -10,6 +10,10 @@ This concept isn't new but it obviously would need a lot more training to be awa
 I've also set the retrieval to time out after 15 seconds to avoid spamming the twitter API.
 
 Inspiration from the following projects:
+
 https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed
+
 https://github.com/g3n1uss/generating-reviews-discovering-sentiment
+
 https://python.gotrained.com/scraping-tweets-sentiment-analysis/  
+
