@@ -19,7 +19,7 @@ I've also set the retrieval to time out after 15 seconds to avoid spamming the t
 The analysis is only as good as the training model you feed it.
 
 
-# Techniques utilised from the following projects:
+# Built upon techniques and samples from the following projects/articles:
 
 https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed
 
