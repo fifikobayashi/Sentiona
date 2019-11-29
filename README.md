@@ -1,4 +1,4 @@
-# Sentiona
+# Sentiona (Beta)
 Sentiment Analytics Framework
 
 My first cut of a Sentiment Analytics framework that canvases cryptotwitter sentiments towards a particular project/personality.
