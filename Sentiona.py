@@ -29,7 +29,7 @@ search_query = raw_input("Enter a subject matter for analysis:  ")
 #    2. search query + exclusion of retweets for now
 #    3. further filtering tweets by language
 #    4. number of tweets to return
-for tweet_object in tweepy.Cursor(api.search,q=search_query+" -filter:retweets",lang='en',result_type='recent').items(100):
+for tweet_object in tweepy.Cursor(api.search,q=search_query+" -filter:retweets",lang='en',result_type='recent').items(300):
     all_tweets.append(tweet_object.text)
 
 # load twitter dataset
