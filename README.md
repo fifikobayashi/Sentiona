@@ -1,7 +1,7 @@
 # Sentiona (Beta)
 Sentiment Analytics Framework
 
-My first cut of a Sentiment Analytics framework that canvases cryptotwitter sentiments towards a particular project/personality.
+My first cut of a python-based Sentiment Analytics framework that canvases cryptotwitter sentiments towards a particular project/personality.
 
 It runs on live twitter data via the Twitter API and uses an existing machine learning dataset to train the sentiment analysis model. 
 
