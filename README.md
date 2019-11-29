@@ -1,0 +1,2 @@
+# Sentiona
+Sentiment Analytics Framework
