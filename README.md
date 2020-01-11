@@ -9,6 +9,8 @@ This concept isn't new but it obviously would need a lot more training to be awa
 
 I've also set the retrieval to time out after 15 seconds to avoid spamming the twitter API.
 
+![screenshot](https://raw.githubusercontent.com/fifikobayashi/Sentiona/master/%24HEX.png)
+
 # Pre-requisites to running the code:
 
 - Dependencies (numpy, pandas, matplotlib, seaborn, nltk)
