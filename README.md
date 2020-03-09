@@ -17,7 +17,14 @@ I've also set the retrieval to time out after 15 seconds to avoid spamming the t
 https://developer.twitter.com/content/developer-twitter/en.html
 
 2. Extract the API key, API secret key, Access token and Access token secret from your developer app page
-https://developer.twitter.com/en/apps
+https://developer.twitter.com/en/apps and update the following initialization parameters 
+```
+#connection to twitter API
+consumer_api_key = 'USE_YOUR_OWN'
+consumer_api_secret = 'USE_YOUR_OWN' 
+access_token = 'USE_YOUR_OWN'
+access_token_secret ='USE_YOUR_OWN'
+```
 
 3. Clone this repo
 ```
