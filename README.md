@@ -19,20 +19,32 @@ https://developer.twitter.com/content/developer-twitter/en.html
 2. Extract the API key, API secret key, Access token and Access token secret from your developer app page
 https://developer.twitter.com/en/apps
 
-3. git clone https://github.com/fifikobayashi/Sentiona
+3. Clone this repo
+```
+git clone https://github.com/fifikobayashi/Sentiona
+cd Sentiona
+```
 
 4. install dependencies
+```
 pip3 install numpy
 pip3 install pandas
 pip3 install matplotlib
 pip3 install seaborn
 pip3 install nltk
 pip3 install sklearn
+```
 
 5. update the dataset to be loaded in the code "tweets = pd.read_csv()" to point to your trained ML models
+```
+# load twitter dataset
+tweets = pd.read_csv("https://....
+```
 
-6. To execute, just run "python3 Sentiona.py"
-
+6. To execute, just run 
+```
+python3 Sentiona.py
+```
 
 # Notes on dependencies:
 
