@@ -22,7 +22,7 @@ api = tweepy.API(authorizer ,timeout=15)
 all_tweets = []
 
 # asks user for the search term 
-search_query = raw_input("Enter a subject matter for analysis:  ")
+search_query = input("Enter a subject matter for analysis:  ")
 
 # calls Cursor object with the following params
 #    1. operation type
