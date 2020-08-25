@@ -7,7 +7,7 @@ It runs on live twitter data via the Twitter API and uses an existing machine le
 
 This concept isn't new but it obviously would need a lot more training to be aware of nuances on cryptotwitter.
 
-I've also set the retrieval to time out after 15 seconds to avoid spamming the twitter API.
+I've also set the retrieval to time out after 150 seconds to avoid spamming the twitter API.
 
 ![screenshot](https://raw.githubusercontent.com/fifikobayashi/Sentiona/master/%24HEX.png)
 
